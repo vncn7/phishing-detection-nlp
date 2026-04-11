@@ -41,7 +41,7 @@ Training was done on an NVIDIA GeForce RTX 4080.
 - NVIDIA GPU with Docker GPU support
 - VS Code with [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension
 
-## How to Run
+## Setup
 
 1. Open the project in VS Code
 2. Run `Dev Containers: Rebuild and Reopen in Container` (`Ctrl+Shift+P`)
